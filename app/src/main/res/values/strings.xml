@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="_2">2</string>
+    <string name="_10">10</string>
+    <string name="_16">16</string>
+    <string name="_8">8</string>
+    <string name="decimal">Decimal</string>
+    <string name="binary">Binary</string>
+    <string name="octal">Octal</string>
+    <string name="hexa">Hexa</string>
+    <string name="clear">Clear</string>
+</resources>
