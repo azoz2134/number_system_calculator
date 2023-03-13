@@ -160,6 +160,7 @@
             android:layout_height="56dp"
             android:background="@drawable/rounded_btn"
             android:text="@string/clear"
+            android:textSize="18sp"
             android:layout_marginHorizontal="16dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
